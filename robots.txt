@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-aag7u5.salamcuanwin.xyz/sitemap.xml
